@@ -1,6 +1,6 @@
 # 📋 Formulário de Evento em React
 
-Este projeto é um formulário de cadastro de eventos desenvolvido com **React + TypeScript**, utilizando as bibliotecas **React Hook Form** e **Yup** para manipulação e validação de formulários.
+Este projeto é um formulário simples de cadastro de eventos desenvolvido com **React + TypeScript**, utilizando as bibliotecas **React Hook Form** e **Yup** para manipulação e validação de formulários.
 
 ## 🧩 Tecnologias Utilizadas
 
